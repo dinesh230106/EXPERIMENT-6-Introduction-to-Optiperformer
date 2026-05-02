@@ -93,13 +93,24 @@ The system includes:
 | 11   | 150               |    484.406 E-9 | -33.290             |  19.5098            |4.92689 E-108     |  8.6075 E-07          |  0.546875                            |
 
 ---
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/9818eaa1-084b-4955-8629-6b4c692c2cf6" />
+
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+## Optical Power vs. Fiber Length 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/b63b91a5-72a2-457e-a38d-9a67ebf7cc40" />
+
+## Q Factor vs. Fiber Length 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/944f1509-a4cb-4b87-af2d-023cd5b224ee" />
+
+## BER vs. Fiber Length
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/d10c2e27-e5be-4a4f-8179-26db4907526f" />
+
+
 
 ---
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+As fiber length increases, received power and Q-factor decrease, while BER increases. The eye diagram becomes more closed, showing signal quality is reduced.
